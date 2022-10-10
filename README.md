@@ -12,10 +12,10 @@ Atividade referente à disciplina de Desenvolvimento de Aplicações Corporativa
     &emsp;R: Faz a listagem das imagens que já foram baixadas no docker.<br>
     
 3. Realize os seguintes passos: <br>
-  &emsp;a. Criei uma aplicação java web ou node e construa o artefato .war. (Feito)
-  &emsp;b. Crie um arquivo Dockerfile. (deve ser inserido o arquivo criado no passo a) (Feito)
-  &emsp;c. Construa uma nova image (deve ser utilizado o arquivo Dockerfile do passo b) (Feito)
-  &emsp;d. Execute o comando: docker container run -p 8080:8080 (Feito)
+  &emsp;a. Criei uma aplicação java web ou node e construa o artefato .war. (Feito)<br>
+  &emsp;b. Crie um arquivo Dockerfile. (deve ser inserido o arquivo criado no passo a) (Feito)<br>
+  &emsp;c. Construa uma nova image (deve ser utilizado o arquivo Dockerfile do passo b) (Feito)<br>
+  &emsp;d. Execute o comando: docker container run -p 8080:8080 (Feito)<br>
   
 4. No arquivo README.md, inclua uma seção com um resumo das principais vantagens do uso de containers. <br>
   &emsp;R: Containers são ambientes inicializados a partir de uma imagem, esse container pode conter aplicações, ferramentas e variantes; vários containers podem   ser iniciados a partir de uma única imagem, isso tudo de forma independete, a principal vantagem dos mesmos consiste na possibilidade de rodar várias       ferramentas ao mesmo tempo em um único ambiente de trabalho, sem a necessidade de virtualizar outra máquina, ou de instalar os pacotes necessários para     execução de determinada aplicação.
