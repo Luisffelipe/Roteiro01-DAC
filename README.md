@@ -5,11 +5,11 @@ Atividade referente à disciplina de Desenvolvimento de Aplicações Corporativa
 
 2. Execute e explique a execução dos seguintes comandos: <br>
   a. docker container run tomcat <br>
-    R: Inicia um container da ferramenta tomcat através de sua imagem que está disponivel de forma remota.<br>
+    &nbsp;R: Inicia um container da ferramenta tomcat através de sua imagem que está disponivel de forma remota.<br>
   b. docker container ls <br>
-    R: Faz a listagem dos containers que estão em execução no docker.<br>
+    &nbsp;R: Faz a listagem dos containers que estão em execução no docker.<br>
   c. docker image ls <br>
-    R: Faz a listagem das imagens que já foram baixadas no docker.<br>
+    &nbsp;R: Faz a listagem das imagens que já foram baixadas no docker.<br>
     
 3. Realize os seguintes passos: 
   a. Criei uma aplicação java web ou node e construa o artefato .war. (Feito)
